@@ -1,1 +1,5 @@
 .DS_Store
+.go 2.mod.icloud
+.go 2.sum.icloud
+.main 2.go.icloud
+.main_test 2.go.icloud
